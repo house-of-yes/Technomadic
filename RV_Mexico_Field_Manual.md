@@ -184,3 +184,167 @@ _A comprehensive guide to long-stay, low-cost RV living across Mexico (32‑ft m
 ### Closing Note
 Prices and availability in Mexico are fluid and seasonal. The ranges above reflect current, typical observations rather than guarantees. Always confirm current rates, size limits, and road access with the park or owner before committing your rig.
 
+Here’s what I found about the Sonora Free Zone and related costs for the Banjército Temporary Import Permit (TIP) and Mexican liability insurance:
+
+
+---
+
+✅ Sonora Free Zone
+
+The Sonora Free Zone covers the portion of Sonora west of Federal Highway 15 and north of Kilometer 98. 
+
+Within this zone (and for the entire Baja California Peninsula), you do not need a full TIP if you stay inside the free-zone boundary. 
+
+If you leave that zone (or head into mainland Mexico outside it) you’ll need a full TIP. 
+
+
+
+---
+
+💲 TIP Cost & Deposit
+
+Standard permit fee is around USD $50–60 (approx MXN 1,000–1,200) for online or at‐border purchase. 
+
+Deposit (refundable if vehicle leaves Mexico on time) varies by vehicle model year:
+
+2007 & newer: ~ USD $400 
+
+2001-2006: ~ USD $300 
+
+2000 and older: ~ USD $200 
+
+
+Example: one source: “about $60 USD permit + $400 deposit” for newer vehicles. 
+
+
+
+---
+
+🛡 Mexican Liability Insurance
+
+Minimum liability insurance is mandatory for foreign-plated vehicles in Mexico. 
+
+Cost varies widely: example given ~ USD $11/day for a $15K vehicle on a short-term policy; a six-month full-cover policy for same might cost ~ USD $294. 
+
+For long-term stays your cost might fall in the hundreds of USD / per year range depending on vehicle value and coverage. 
+
+
+
+---
+
+🔍 Relevance for a 32-ft Motorhome
+
+If you stay within the Sonora Free Zone (or Baja) you may skip the TIP entirely — big savings.
+
+If you plan to travel beyond the Free Zone into mainland Mexico, plan for: ~ USD $50 permit + USD $300-$400 refundable deposit at start.
+
+Insurance for a motorhome will likely cost more than for a small car—expect a higher premium due to size/value; get quotes specific to RVs.
+
+Keep all paperwork (TIP or Free Zone acknowledgment, insurance card, FMM) in the rig when crossing/parking.
+
+
+Here are updated findings on the Sonora Free Zone and Mexico RV/motorhome insurance that apply for your 32-ft rig:
+
+
+---
+
+📍 Sonora Free Zone — Key Facts
+
+The Free Zone covers the entire Baja California peninsula and a large portion of Sonora: specifically, west of Mexican Federal Highway 15 and north of Kilometer 98 (Empalme) in Sonora. 
+
+Inside this zone, you do not need a full vehicle permit (TIP) for foreign-plated vehicles. 
+
+If you plan to travel outside the Free Zone (across eastern or southern Sonora or into inland Mexico), then a TIP is required. 
+
+Map reference: The free zone map confirms this boundary and shows the “no-TIP required” area. 
+
+
+Implication for you:
+If you keep your 32-ft motorhome within the western Sonora Free Zone (and/or Baja), you can avoid the TIP deposit and process — a significant cost and administrative burden.
+
+
+---
+
+🛡 Insurance for RVs/Motorhomes in Mexico
+
+U.S./Canadian insurance policies are not valid in Mexico for foreign-plated vehicles; you must carry Mexico-licensed liability coverage. 
+
+For larger rigs like motorhomes, coverage suggestions: minimum of USD $300,000 liability (for RV size/weight). 
+
+Cost estimates:
+
+A guide indicates ~ USD $120-135 for each $10K insured for a 3 or 6-month policy. 
+
+Another source states Here are three actual quote ranges and key details for motorhome insurance + TIP costs in Mexico:
+
+
+---
+
+📋 Quote Summaries
+
+1. TIP (Temporary Import Permit) Cost
+
+~$45–$52 USD permit fee. 
+
+Refundable deposit: ~$400 USD for vehicles 2007+ model year; ~$300 for 2001-2006; ~$200 for older. 
+
+Valid up to 180 days in many cases; motorhomes may qualify for longer term. 
+
+
+
+2. Liability-only Mexican Auto/RV Insurance
+
+Minimum coverage frequently recommended at ~$300,000 USD liability for RVs. 
+
+Daily cost for basic policy can range $2-$40 depending on vehicle & term. 
+
+
+
+3. Motorhome-Specific Monthly Insurance Estimate
+
+For RVs: $5.85-$11.65/day) depending on size, region, and coverage level. 
+
+
+
+
+
+---
+
+✅ Implications for Your 32-ft Motorhome
+
+If staying within the Sonora Free Zone or Baja, you might skip the TIP deposit entirely (a major savings).
+
+If entering mainland Mexico beyond the Free Zone, budget ~$45 for permit + ~$400 deposit (refundable) for your rig.
+
+For insurance: expect > liability minimum because of rig size. Budget around $200–$350/month for decent coverage.
+
+Make sure policy includes:
+
+Mexican authority-accepted liability coverage
+
+Clear term for long-stay or full-year usage (not just tourist short-term)
+
+Full documentation to show at checkpoints/border
+
+
+
+If you like, I can pull down live broker quotes (screen-shots or worksheets) for your exact rig size (32-ft motorhome) valid in Mexico today. RV monthly insurance between USD $175-$350 per month (or ~$5.85-$11.65/day) depending on coverage, rig size, region. 
+
+For ordinary cars, ~$10/day bare minimum; RVs will be higher. 
+
+
+
+What this means for your 32-ft rig:
+Expect to budget somewhere in the ballpark of USD $200-400/month depending on: value, desired coverage limits, region of Mexico, and whether you opt for full comprehensive vs liability only.
+
+
+Here are baseline numbers for liability insurance on a motorhome in California:
+
+Minimum legal coverage: $30,000 bodily injury per person, $60,000 total bodily injury per accident, and $15,000 property damage. 
+
+Real-world premiums for a full-size motorhome: ~$800–$2,000 per year, depending on size, usage, and liability limits. 
+
+Some liability-only RV policies start much lower (for smaller rigs or low risk use): e.g., ~$125/year with minimal limits. 
+
+
+For your 32-foot motorhome used as a residence/parking base, expect somewhere in the range $800–$1,500/year for basic liability coverage (and more if you add full-timer or contents cover).
