@@ -1,7 +1,19 @@
-# P30 / 454 TBI — Inspection & Maintenance
 
-**Coach:** 1994 Itasca Sunrise 31RQ  
-**VIN:** `1GBKP37N5R3303976` • Chevy P30 (454 TBI / 4L80E)
+# Maintenance & Inspection Notes
+
+---
+
+## Coach Specifications
+**Model:** 1994 Itasca Sunrise 31RQ  
+**VIN:** `1GBKP37N5R3303976`  
+**Chassis:** Chevrolet P30 motorhome (454 TBI V8 / 4L80E transmission)  
+**GVWR:** 14 800 lb (6 713 kg)  
+**Fuel:** Gasoline — 7.4 L V8 (Throttle Body Injection)  
+**Wheelbase:** 190 in 
+**Tires:** 225/70R19.5 (LR F) or 8R19.5 (LR D)  
+**Electrical:** 12 V DC coach / 120 V AC shore + generator  
+**Generator:** Onan Emerald Plus 4.0 BFA  
+**Converter/Charger:** Magnetek 6300A
 
 ---
 
